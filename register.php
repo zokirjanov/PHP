@@ -28,7 +28,7 @@
                     <input type="submit" class="btn" name="submit" value="Login" id="username" required>
                 </div>
                 <div class="links"> 
-                    Already a member? <a href="index.html">Sign-in now</a>
+                    Already a member? <a href="index.php">Sign-in now</a>
                 </div>
             </form>
         </div>
